@@ -1,1 +1,1 @@
-heartexlabs/label-studio
+zjunlp/knowlm:v.1
