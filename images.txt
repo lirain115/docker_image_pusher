@@ -1,1 +1,1 @@
-kkfileview/kkfileview:arm
+xprobe/xinference:latest
