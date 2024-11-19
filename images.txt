@@ -1,1 +1,1 @@
-xprobe/xinference:latest
+eosphorosai/dbgpt:latest
