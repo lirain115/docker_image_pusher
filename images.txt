@@ -1,1 +1,1 @@
-rustdesk/rustdesk-server:latest
+novnc/novnc
