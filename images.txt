@@ -1,1 +1,1 @@
-novnc/novnc
+jlesage/no-vnc
